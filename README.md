@@ -9,13 +9,13 @@ A aplicação é um basicamente um CRUD utilizando React no frontend e consumind
 
 ## Guia
 
-####Clonar repositorio
+#### Clonar repositorio
 
 ####Na pasta backend 
 - npm install
 - npm run server
 
-####Na pasta frontend 
+#### Na pasta frontend 
 
 - npm install
 - npm start
